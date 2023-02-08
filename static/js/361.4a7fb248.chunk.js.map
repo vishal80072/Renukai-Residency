@@ -1,0 +1,1 @@
+{"version":3,"file":"static/js/361.4a7fb248.chunk.js","mappings":"gMAMA,UANqB,WACjB,OAAO,+BACH,wBAAI,2BAEZ,C","sources":["views/balance-sheet/BalanceSheet.js"],"sourcesContent":["const BalanceSheet = () => {\r\n    return <>\r\n        <h1>Balance sheet us page</h1>\r\n    </>\r\n}\r\n\r\nexport default BalanceSheet"],"names":[],"sourceRoot":""}

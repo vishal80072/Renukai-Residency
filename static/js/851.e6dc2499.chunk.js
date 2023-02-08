@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunk_vishalsurgade_renukai_residency_jalgaon=self.webpackChunk_vishalsurgade_renukai_residency_jalgaon||[]).push([[851],{82851:function(e,n,a){a.r(n);var r=a(80184);n.default=function(){return(0,r.jsx)(r.Fragment,{children:(0,r.jsx)("h1",{children:"Profile"})})}}}]);
+//# sourceMappingURL=851.e6dc2499.chunk.js.map
