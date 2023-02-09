@@ -1,1 +1,0 @@
-{"version":3,"file":"static/js/263.3b8ffeba.chunk.js","mappings":"gMAOA,UANc,WACV,OAAO,+BACH,wBAAI,mBAEZ,C","sources":["views/about/About.js"],"sourcesContent":["\r\nconst About = () => {\r\n    return <>\r\n        <h1>About us page</h1>\r\n    </>\r\n}\r\n\r\nexport default About"],"names":[],"sourceRoot":""}
