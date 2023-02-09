@@ -1,1 +1,0 @@
-{"version":3,"file":"static/js/776.79c19906.chunk.js","mappings":"gMAMA,UANe,WACX,OAAO,+BACH,wBAAI,oBAEZ,C","sources":["views/social/Social.js"],"sourcesContent":["const Social = () => {\r\n    return <>\r\n        <h1>Social us page</h1>\r\n    </>\r\n}\r\n\r\nexport default Social"],"names":[],"sourceRoot":""}
