@@ -1,2 +1,0 @@
-"use strict";(self.webpackChunk_vishalsurgade_renukai_residency_jalgaon=self.webpackChunk_vishalsurgade_renukai_residency_jalgaon||[]).push([[361],{17361:function(e,a,n){n.r(a);var s=n(80184);a.default=function(){return(0,s.jsx)(s.Fragment,{children:(0,s.jsx)("h1",{children:"Balance sheet us page"})})}}}]);
-//# sourceMappingURL=361.4a7fb248.chunk.js.map
